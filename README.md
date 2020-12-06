@@ -1,6 +1,6 @@
 # RCG
 
-This is my website repository, you can find the website <a href="https://rcarlonigertosio.github.io/">here</a>.
+This is my website repository, you can find the website <a href="carloni-gertosio.com">here</a>.
 
 ## Acknowledgment
 
