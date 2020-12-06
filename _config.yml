@@ -1,0 +1,16 @@
+title: Rémi Carloni Gertosio
+author: Rémi Carloni Gertosio
+email: remi.carlonigertosio@cea.fr
+laboratory: CEA Paris-Saclay, DRF/IRFU/DEDIP
+address: Orme des Merisiers, bât. 703 
+baseurl: "" 
+url: "" 
+github_username:  RCarloniGertosio
+linkedin_username: remi-carloni-gertosio
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+lang: en
