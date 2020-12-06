@@ -74,7 +74,7 @@ ref: cv
   <div class="cv-column cv-right">
     <h4>Ecole Normale Supérieure Paris-Saclay <br>(<a href="https://ens-paris-saclay.fr">ENS Paris-Saclay</a>, auparavant ENS Cachan)</h4>
 	
-	<p>Master E3A (génie électrique) avec une spécialisation en traitement du signal et des images.</p>
+	<p>Master E3A (génie électrique), spécialité traitement du signal et des images.</p>
 	<p><i><u>Domaines :</u> électronique, énergie électrique, électronique de puissance, physique appliquée, télécommunications, automatique, traitement du signal et des images, informatique industrielle.</i></p>
   </div>
 </div>
