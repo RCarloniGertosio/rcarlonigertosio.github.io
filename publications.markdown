@@ -13,7 +13,8 @@ ref: publications
 <ul>
   <li><b>R. Carloni Gertosio</b>, J. Bobin
   <br><i>Joint deconvolution and unsupervised source separation for data on the sphere</i>
-  <br> Submitted
+  <br> Digital Signal Processing, Volume 110, March 2021
+  <br> <a href="https://doi.org/10.1016/j.dsp.2020.102946">[doi]</a> <a href="https://arxiv.org/abs/2012.12740">[arXiv]</a> <a href="https://github.com/RCarloniGertosio/SDecGMCA">[code]</a>
   </li>
 </ul> 
 
@@ -21,6 +22,8 @@ ref: publications
 
 <ul>
   <li><b>R. Carloni Gertosio</b>, J. Bobin
-  <br><i><a href="https://arxiv.org/abs/2009.03606">Joint deconvolution and blind source separation on the sphere with an application to radio-astronomy</a></i>
-  <br><a href="https://itwist20.ls2n.fr/">iTWIST'20</a>, Nantes (virtual), December 2020</li>
+  <br><i>Joint deconvolution and blind source separation on the sphere with an application to radio-astronomy</i>
+  <br><a href="https://itwist20.ls2n.fr/">iTWIST'20</a>, Nantes (virtual), December 2020
+  <br><a href="https://arxiv.org/abs/2009.03606">[arXiv]</a> <a href="/assets/slides_itwist20.pdf">[slides]</a>
+  </li>
 </ul>
